@@ -5,9 +5,11 @@ Atualização da parte 1 :
 -- adcionado ícones no menu
 
 -- Adcionado Dropdown do Menu Vertical
+
    -- No Menu Usuarios
    
 -- Adcionado Área conteúdo do administratvo
+
    -- Conteúdo em cards
    
 
